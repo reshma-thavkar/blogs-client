@@ -1,0 +1,32 @@
+input,
+textarea{
+    border: 1px solid grey;
+    padding: 12px 15px;
+    border-radius: 10px;
+}
+button{
+    border: 1px solid grey;
+    background-color: black;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 10px;
+}
+.login-div{
+    width: 500px;
+    background-color: rgb(241, 127, 162);
+    margin: 60px auto;
+    padding: 25px 30px;
+    border-radius: 10px;
+}
+.blogs-div{
+    background-color: rgb(241, 127, 162);
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+.user-div{
+    background-color: rgb(241, 127, 162);
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
